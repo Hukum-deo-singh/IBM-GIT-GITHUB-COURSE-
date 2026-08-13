@@ -1,0 +1,10 @@
+$ curl -L \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Hukum-deo-singh/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "html_url": "https://github.com/Hukum-deo-singh/mcino-Introduction-to-Git-and-GitHub"
+}
